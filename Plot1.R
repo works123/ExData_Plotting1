@@ -35,7 +35,7 @@ getData <- function(){
 data <- getData()
 
 ##Construct a png file
-png(file = "Plot1.png", bg = "transparent",width = 480, height = 480)
+png(file = "PLOT1.png", bg = "transparent",width = 480, height = 480)
 
 ##Plot graph - Plot 1
 hist(data$Global_active_power,xlab = "Global Active Power(kilowatts)", col="red",main= "Global Active Power")
