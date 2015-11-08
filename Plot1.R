@@ -1,5 +1,6 @@
 ## plots Plot1 and create the Plot1.png
  
+
 ##get dataset
 getData <- function(){
         
