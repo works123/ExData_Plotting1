@@ -39,7 +39,7 @@ png(file = "Plot3.png", bg = "transparent",width = 480, height = 480)
 
 ##Plot graph - Plot 3
 with(data,{
-        plot(Time, Sub_metering_1,type="n",ylab = "Energy Sub Metering", xlab="")
+        plot(Time, Sub_metering_1,type="n",ylab = "Energy sub metering", xlab="")
 lines(Time,Sub_metering_1,col="black")
 lines(Time,Sub_metering_2,col="red")
 lines(Time,Sub_metering_3,col="blue")
