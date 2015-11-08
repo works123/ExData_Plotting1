@@ -1,4 +1,4 @@
-## plots Plot3 and create the Plot3.png
+## plots Plot4 and create the Plot4.png
 
 ##get dataset
 getData <- function(){
