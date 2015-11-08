@@ -1,5 +1,5 @@
 ## plots Plot2 and create the Plot2.png
-
+ 
 ##get dataset
 getData <- function(){
         
